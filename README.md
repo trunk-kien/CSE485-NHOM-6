@@ -4,7 +4,6 @@
 *   **Nhóm:** 6 (Solo)
 *   **Họ và tên:** Nguyễn Trung Kiên
 *   **MSV:** 2251172394
-*   **Tiến độ hiện tại:** Hoàn thành thiết kế ERD, triển khai 100% Migration cho 7 bảng, thiết lập Data Seeder mẫu.
 
 ## 🛠 Công nghệ sử dụng (Tech Stack)
 *   **Backend Framework:** Laravel (PHP)
