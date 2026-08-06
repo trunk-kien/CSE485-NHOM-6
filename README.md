@@ -6,7 +6,7 @@
 *   **Tiến độ hiện tại:** Hoàn thành thiết kế ERD, triển khai 100% Migration cho 7 bảng, thiết lập Data Seeder mẫu.
 
 ## 🛠 Công nghệ sử dụng (Tech Stack)
-*   **Backend Framework:** Laravel 10 / 11 (PHP)
+*   **Backend Framework:** Laravel (PHP)
 *   **Cơ sở dữ liệu:** MySQL
 *   **Quản lý phiên bản:** Git & GitHub
 
